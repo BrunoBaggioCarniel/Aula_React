@@ -1,4 +1,4 @@
-function minhafunc(){
+function minhaFunc(){
     const numeros = [1,2,3,4];
     let i;
     for(i=0;i<numeros.length; i++){
@@ -6,4 +6,3 @@ function minhafunc(){
     }
 }
 
-minhafunc();
